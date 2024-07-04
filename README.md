@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_PTIT_University.png"  />
+<img align="right" height="110" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_PTIT_University.png"  />
 
 ###
 
